@@ -1,0 +1,6 @@
+[user]
+	email = robqliu@gmail.com
+	name = Robert Liu
+[core]
+[core]
+	excludesfile = \\Users\\robert/.gitignore
