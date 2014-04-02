@@ -1,0 +1,10 @@
+[user]
+	name = Robert Liu
+	email = robqliu@gmail.com
+# Linux
+[core]
+	excludesfile = $HOME/.gitignore
+
+# Windows
+#[core]
+#	excludesfile = %HOMEDRIVE%%HOMEPATH%/.gitignore
